@@ -83,22 +83,12 @@ export const skills = [
         name: "React",
         type: "Frontend",
     },
-   
-    {
-        imageUrl: sass,
-        name: "Sass",
-        type: "Frontend",
-    },
     {
         imageUrl: tailwindcss,
         name: "Tailwind CSS",
         type: "Frontend",
-    },
-    {
-        imageUrl: typescript,
-        name: "TypeScript",
-        type: "Frontend",
     }
+   
 ];
 
 export const experiences = [
